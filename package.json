@@ -6,6 +6,7 @@
     "@tinymce/tinymce-react": "^2.3.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
+    "react-froala-wysiwyg": "^2.8.5",
     "react-scripts": "2.0.5",
     "remarkable": "^1.7.1"
   },
